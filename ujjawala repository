@@ -1,0 +1,4 @@
+echo "# my-new-repository" >> README.md
+git init
+git add.in
+git commit
